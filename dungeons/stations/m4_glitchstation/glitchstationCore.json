@@ -3,7 +3,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt20mSwyAMBVBOkkv0lb3xwqfqHCSbUOUiFoOQkIC\/+ItUO0Tw7AZP7xDCe9H8f7PL784cWM0TWM2Xv8Gx7Os1advU72nFw353VWzDjWbbK9UZrV6FXBXbcKPZ9ip1Slql+0DPGPS0pVHfvU6plGrUtjq+kbDitqVRn3TbOSuqDVjBClb+rVafr6Tatp6veqJ5vpOby63CqeduVdofvPVXe2y81cOx8tZvWNVbnQ76vkM481Wt1cjre7l4r6nHilrT3K3uf4eVrdURftf5qVXc5kzieVysaxlpFVNz7mc9Hjtbpd+DFaxgBSuvNcEKVrCCFaxgBStYwQpWsPJdE6z2sSo9O1CzjfV47GAlFevxgBWsPFjF+4ZUpC2RPitqu2g127NdI1Lb56dnH1qOhdSKWiucxO+tkp5+ca2exrfF6hX0razniqc5Y0arEceVtdEKVrl1Cqz8WZXWgbDyY0UdVxJ9ghWsPFj1vqsCK1\/HVS6wghWs5rHqvc5kbaRtxbl2qmFV079ZraTeb4WVrlXNOFHXdCirlne9uVa19XP\/b1gbca0OhhX1HVjBClawsg6s1rXC2mIOq5ZxyN2roO7Zc63SZ\/+opO\/jlyI1NtT+bpXWcYjPIOU+Uxl9XEmm9xx2plD38LX2J6Qv1vMG0pYPU6TDyg==",
+         "data":"eJzt20GShCAMBVBP0peYK7tx0aeaPshsmiqLMRBCQgL8xV9MjY3AUxHUz3Ecn0Xz+80u+505sJonK1q9Fs\/P4Fi0gWv1NuxHy7Kp\/VnFst7JqnacvBnbSGNZ9kr13PG8mrGemlY91+u8bItrv0aZ1tfKUv20rc5vNKykZVnUT7vskhVVBqxgBav4VquPV1ple49XPbGc74yY90jaKzke7vMrL6uIfROtPhKraO2GFd\/qCtD2HSIZr7hWo9e1OWvS3nXpWSd\/sqLuae5W9\/\/DytfqPP7f5+dWaZsrS+R+8a7LSKsUztzPuz92tsp\/BytYwQpWUesEK1jBClawghWsYAUrWMEqdp1gtY9V7d0Bzjbe\/bGDlVa8+wNWsIpglZ4bUtG2RPqsqO2S1Wzvdo0It81P7z60nAu5FXWvcBH7WyU97ZJaPfVvi9XrsLfyHiuexowZrUacV95GK1iVtoNVPKvafSCs4lhp1QtWsIpq1futCqxinVelwApWsJrHqnedydvI2kqydmphxWnfrFZa37fCytaK00\/Umg5l1fKtt5dVLd5GUqtTYEX9BlawghWsvAOrda1wbzGHVUs\/lJ5VUM\/spVb5u39U8u\/xa9HqG+p490prP6R3kEp\/Uxl9Xmmmdw47U6hn+FbHE9IX73EDacsf8nwoVA==",
          "encoding":"base64",
          "height":59,
          "name":"back",
@@ -16,7 +16,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJztnAtqwzAQRHMSX6L3P0ZOkIuEkgiEkayPR7s70TxYGgqVpxpvLA3Cj4dA8TqViMur8lnEw6Kv\/jaq4\/sTRT7mykocm9UKr1ZXfr3d6gkqK71CCCGEEEIIDrz3OrvWyD4u4Z0j7Fg9+9tn4Xeo++QAjrWDpitKPqHo1WAJq6aVPvVqsIZR02qfejR4wKbJwqeWBi+YNFn5dKXBk+iaSmtyaw1RYNKkvuLSpOcVlyatA+Og\/VUZZk3KLfwZ0bTKL\/Z5sWJU04o1fZ5NRoFdk\/W+S8whnziQTxzIJw7kEwe9PuVrk+hn8H+pZnL2kfMaNdK+QTV3NmakrxBe1Sri+RRPrXdydoRXHmOjsdDaukbLL3n1Ib\/3V17jTs6e\/z06f2LyyoLe+ah5oL6yY2Q+audu5ZUNo\/Nx\/p6TV3aor3hAPq9Q7xLI84zoXllnL6h1IBoWr\/5JWj1yi7OWGvLqg3dfKbdoE+HMq2Ue6DE2CmuvUs3k7Ctyi9LzWtSJ0FeiH+\/nlRjDcx0oxrm7v+p9\/4LA4JGzi3laeSCyRxjPzFz9\/6PveEHORyLPVlB+5VkgU6HvV9R8JM5j3NVb0uXdL7218vvlzjwILt5FkWlH",
+         "data":"eJztnFGOwyAMRHOSXGLvf4yeoBdZRSoqjSAYYjN2GKSn\/dp06hcS4qK8t217E7IgaaBzEDx\/C7F\/\/mrWbu\/4\/FHS5+2LYeHKmhXnVeKlxKy86GsvIYQQQgghRAb6WWdVep7jkit0H2FFDletkTvSnle74rFWyNTrSfM6qt1re3omhKcIdUFnkbqy9hShLugsElczPEWoCzpLy9UsTxHqgs5SylRak7Mu+CytTJxXsTLxfhUrE9eB+Cw9mfh85QNpJvYt8PRksvIVvS5eM1ms6fPeJLoeT8k0+7mLjEFPMaCnGNBTDOgpBlJP+drE+x78JzHSZ+\/Zr1Eb6bmBjO2N6ZlXGq5qeNyfgsx653dhDVe1kR8bfU\/oqcOMzyiNli+6+tYhgXJ1jCtf+f+ne53WiORq1vlwZ38g55U\/V8eo7bulK3+ujnFe09OVT1ecVzFcSe5XWu8SyPsZ3l3N7r1orQMtzyO0kytXeVZE30Liia5+XSHnVW\/fYmVXM6i5GukH0pW9q8RIn720ttD4\/uf7NdqJZzzMK6Lri678gFwHEl1fElfS9y8QW1+cVz5p9QM150jEPTNX37\/3HS+a9Ti70vT1Oh03Ctrnq1Y9Sq408pZyoeeLFMvry506WF1niQ3\/p6o8vw==",
          "encoding":"base64",
          "height":59,
          "name":"front",
@@ -411,7 +411,7 @@
                  "type":"",
                  "visible":true,
                  "width":40,
-                 "x":576,
+                 "x":560,
                  "y":352
                 }, 
                 {
@@ -443,7 +443,7 @@
                  "type":"",
                  "visible":true,
                  "width":40,
-                 "x":616,
+                 "x":608,
                  "y":352
                 }, 
                 {
@@ -491,7 +491,7 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":600,
+                 "x":592,
                  "y":320
                 }, 
                 {
@@ -716,38 +716,6 @@
                  "visible":true,
                  "width":16,
                  "x":24,
-                 "y":160
-                }, 
-                {
-                 "gid":3216,
-                 "height":24,
-                 "id":897,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":40,
-                 "y":160
-                }, 
-                {
-                 "gid":3216,
-                 "height":24,
-                 "id":898,
-                 "name":"",
-                 "properties":
-                    {
-
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":16,
-                 "x":96,
                  "y":160
                 }, 
                 {

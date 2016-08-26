@@ -39,12 +39,21 @@
     
     //CENTER PIECES
     {
-      "name" : "glitchstationCore1",
+      "name" : "glitchstationCore",
       "rules" : [
-        [ "doNotCombineWith", [ "glitchstationCore1" ] ],
+        [ "doNotCombineWith", [ "glitchstationCore2" ] ],
         [ "maxSpawnCount", [1] ]
       ],
-      "def" : [ "tmx", "glitchstationCore1.json" ],
+      "def" : [ "tmx", "glitchstationCore.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "glitchstationCore2",
+      "rules" : [
+        [ "doNotCombineWith", [ "glitchstationCore" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "glitchstationCore2.json" ],
       "chance" : 1
     },
     
