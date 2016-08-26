@@ -17,7 +17,8 @@
     {
       "name" : "protectoratespacestationbase1",
       "rules" : [
-        [ "doNotCombineWith", [ "protectoratespacestationbase1" ] ]
+        [ "doNotCombineWith", [ "protectoratespacestationbase1" ] ],
+        [ "maxSpawnCount", [1] ]
       ],
       "def" : [ "tmx", "protectoratespacestationbase1.json" ],
       "chance" : 1

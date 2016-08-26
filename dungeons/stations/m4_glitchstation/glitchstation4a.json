@@ -1,29 +1,29 @@
 { "backgroundcolor":"#000000",
- "height":61,
+ "height":40,
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJzt1lEKgCAURNG3EjfhlltaCwmhIMJ0ngxBcIUB8eMwSKk1IupC9k7aeklmZjl7Kf2y1nbmb9Y1d1mOXvdg+S01X1pKlO9L+a+VXtlOb73U8dxXLCwsLCyf5TqjR3dHxpq95VYHFhYWFhaWwzoAFp9LqA==",
+         "data":"eJwzZmBgMCYDP4HSciRidL2U2EuM\/YT0LoHiwaYXxiZXLzn2ylFg73DUSyympl5iMLb4JSYfYLOXVDth9hIL0MNlVO+o3lG9o3pJ0UtumYNc1pGiF73uJheA9AIA2b1flQ==",
          "encoding":"base64",
-         "height":61,
+         "height":40,
          "name":"back",
          "opacity":0.5,
          "type":"tilelayer",
          "visible":true,
-         "width":19,
+         "width":15,
          "x":0,
          "y":0
         }, 
         {
          "compression":"zlib",
-         "data":"eJztlUEKACAIBH2Jn+j\/f4vukWsFUc2Alw5TpKzFzMpE9WjnnqzIpb5HdUX85PJNLmUmFJdyF663XCcyZzT32bxZ\/Y8beoQLFy5ct7p2ZfRod2Rc0U4DAAA4SQUqMyJ4",
+         "data":"eJwzZmBgMCYDM0BpORIxul5i7cOllxAYynrlyNSLLY6I0YvLHaN66aeXHnkQOV2Rmv9I9d9gCNNRvaN6R\/UOXb3kljnIZR0petHLWEoAANzBIng=",
          "encoding":"base64",
-         "height":61,
+         "height":40,
          "name":"front",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
-         "width":19,
+         "width":15,
          "x":0,
          "y":0
         }, 
@@ -339,5 +339,5 @@
         }],
  "tilewidth":8,
  "version":1,
- "width":19
+ "width":15
 }

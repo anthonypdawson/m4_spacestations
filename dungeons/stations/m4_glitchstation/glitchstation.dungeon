@@ -17,7 +17,6 @@
     {
       "name" : "glitchstation1a",
       "rules" : [
-        [ "doNotCombineWith", [ "glitchstation1a" ] ],
         [ "maxSpawnCount", [1] ]
       ],
       "def" : [ "tmx", "glitchstation1a.json" ],
@@ -28,6 +27,13 @@
       "rules" : [
       ],
       "def" : [ "tmx", "glitchstation1b.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "glitchstation1c",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "glitchstation1c.json" ],
       "chance" : 1
     },
     
@@ -51,6 +57,13 @@
       "def" : [ "tmx", "glitchstation2a.json" ],
       "chance" : 1
     },
+    {
+      "name" : "glitchstation2b",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "glitchstation2b.json" ],
+      "chance" : 1
+    },
     
     // RIGHT EXT
     {
@@ -68,6 +81,13 @@
       "rules" : [
       ],
       "def" : [ "tmx", "glitchstation4a.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "glitchstation4b",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "glitchstation4b.json" ],
       "chance" : 1
     },
     
